@@ -2,6 +2,8 @@
 A handy script to deploy firebase functions
 
 
+Usage
+----
 ```
 firebase deploy --only functions:user_create,functions:user_query,functions:user_update,functions:user_delete
 ```
