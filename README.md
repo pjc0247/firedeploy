@@ -12,4 +12,4 @@ to
 firedeploy user.ts
 ```
 
-It automatically finds out all exported functions and executes deploy command.
+It automatically finds out all exported functions from the script and executes deploy command.
